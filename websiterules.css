@@ -1,1 +1,51 @@
+body {
+margin:10;
+padding:10;
+}
 
+
+h1 {
+text-align:center;
+color:black;
+font-family: "Arial", sans-serif;
+}
+
+p {
+
+
+}
+
+p#bio {
+
+
+}
+
+
+a {
+font-size:120%;
+
+}
+
+img {
+display: inline-block;
+margin-left: 10%;
+margin-right: auto;
+}
+
+#wrap {
+display:block;
+margin-left: auto;
+margin-right: auto;
+width:750px;
+}
+
+#header {
+text-align:center;
+width:750px;
+}
+
+
+#qualifications {
+margin-left:50px;
+width:750px;
+}
