@@ -8,6 +8,9 @@ body {
   background-color: #4B0082;
   color: #FFFFFF;
 }
+.modal-content {
+  color: #000000;
+}
 @media all and (max-width: 770px){
   .fullscreen {display: none; }
 }
